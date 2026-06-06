@@ -1,2 +1,2 @@
-# SpendCategorisation
-SpendCategorisation
+# procurebench
+AI Spend Benchmarking Platform
